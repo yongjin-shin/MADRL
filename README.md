@@ -18,33 +18,33 @@
 * Multiagent Cooperation and Competition with Depp Reinforcement Learning
   - Presenter : 김예찬
   * Paper : https://arxiv.org/abs/1511.08779
-  * Material : 
+  * Material : [1. Multiagent Cooperation and Competition with Depp Reinforcement Learning](https://www.slideshare.net/ssuserbd7730/multiagent-cooperative-and-competition-with-deep-reinforcement-learning)
 
 * Learning to Communicate to Solve Riddles with Deep distributed Recurrent Q-Network
   * Presenter : 김예찬
   * Paper : https://arxiv.org/abs/1602.02672
-  * Material : 
+  * Material : [2. Learning to Communicate to Solve Riddles with Deep distributed Recurrent Q-Network](https://www.slideshare.net/ssuserbd7730/learning-to-communicate-to-solve-riddles-with-deep-distributed-recurrent-qnetworks-128910642)
   
 
 ### Week03
 * Deep Reinforcement Learning from Self-Play in Imperfect-Information
   - Presenter : 강효림
   * Paper : https://arxiv.org/abs/1603.01121
-  * Material : 
+  * Material : [3. Deep Reinforcement Learning from Self-Play in Imperfect-Information](https://github.com/ModulabsLVNA/MADRL/blob/master/Week03/3.%20Deep%20Reinforcement%20Learning%20from%20Self-Play%20in%20Imperfect-Information.pdf)
 
 * Learning to Communicate with Deep Multi-Agent Reinforcement Learning
   * Presenter : 강효림
   * Paper : https://arxiv.org/abs/1605.06676
-  * Material : 
+  * Material : [4. Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://github.com/ModulabsLVNA/MADRL/blob/master/Week03/4.%20Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
 
 
 ### Week04
 * Learning Multiagent Communication with Backpropagation
   - Presenter : 안홍일
   * Paper : https://arxiv.org/abs/1605.07736
-  * Material : 
+  * Material : [5. Learning Multiagent Communication with Backpropagation](https://github.com/ModulabsLVNA/MADRL/blob/master/Week04/5.%20Learning%20Multiagent%20Communication%20with%20Backpropagation.pdf)
 
 * Cooperative Multi-Agent Control using Deep Reinforcement Learning
   * Presenter : 배영민
   * Paper : http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf
-  * Material : 
+  * Material : [6. Cooperative Multi-Agent Control using Deep Reinforcement Learning](https://github.com/ModulabsLVNA/MADRL/blob/master/Week04/6.%20Cooperative%20Multi-Agent%20Control%20using%20Deep%20Reinforcement%20Learning.pdf)
