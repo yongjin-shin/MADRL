@@ -48,3 +48,89 @@
   * Presenter : 배영민
   * Paper : http://ala2017.it.nuigalway.ie/papers/ALA2017_Gupta.pdf
   * Material : [6. Cooperative Multi-Agent Control using Deep Reinforcement Learning](https://github.com/ModulabsLVNA/MADRL/blob/master/Week04/6.%20Cooperative%20Multi-Agent%20Control%20using%20Deep%20Reinforcement%20Learning.pdf)
+
+
+### Week05
+* Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning
+  - Presenter : 박규봉
+  * Paper : 
+  * Material : 
+  
+* Multi-agent Reinforcement Learning in Sequencial Social Dilemma 
+  * Presenter : 김예찬
+  * Paper : 
+  * Material : 
+
+
+### Week06
+* Emergence of Grounded Language in Multi-Agent Populations Games
+  - Presenter : 양홍선
+  * Paper : 
+  * Material : 
+  
+* Emergence of Language with Multi-agent Games: Learning to Communicate with Sequence of Symbols
+  * Presenter : 김예찬
+  * Paper : 
+  * Material : 
+  
+
+### Week07
+* Counterfactual Multi-Agent Policy Gradients
+  - Presenter : 김예찬
+  * Paper : 
+  * Material : 
+  
+* Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+  * Presenter : 김예찬
+  * Paper : 
+  * Material : 
+  
+  
+### Week08
+* Learning with Opponent-Learning Awareness
+  - Presenter : 박규봉
+  * Paper : 
+  * Material : 
+  
+* Emergence Complexity via Multi-Agent Competition
+  * Presenter : 김예찬
+  * Paper : 
+  * Material : 
+  
+  
+### Week09
+* A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
+  - Presenter : 강효림
+  * Paper : 
+  * Material : 
+  
+* QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
+  * Presenter : 양홍선
+  * Paper : 
+  * Material : 
+  
+  
+### Week10
+* Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input
+  - Presenter : 김예찬
+  * Paper : 
+  * Material : 
+  
+* Emergence Communication through Negotiation
+  * Presenter : 김예찬
+  * Paper : 
+  * Material : 
+  
+  
+### Week11
+* Learning Policy Representation in Multiagent Systems
+  - Presenter : 박규봉
+  * Paper : 
+  * Material : 
+  
+* Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision
+  * Presenter : 김예찬
+  * Paper : 
+  * Material : 
+  
+  
