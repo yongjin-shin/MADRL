@@ -76,6 +76,7 @@
  - [Probabilistic Recursive Reasoning for Multi-Agent Reinforcement Learning(1901)](https://arxiv.org/abs/1901.09207)
  - [Learning to Schedule Communication in Multi-agent Reinforcement Learning(1902)](https://arxiv.org/abs/1902.01554)
  - **(Review) [Message-Dropout: An Efficient Training Method for Multi-Agent Reinforcement Learning(1902)](https://arxiv.org/abs/1902.06527)**
+ - [Emergent Coordination Through Competition(1902)](https://arxiv.org/abs/1902.07151)
  - Robust Multi-Agent Reinforcement Learning via Minimax Deep Deterministic Policy Gradients
  - ...
 
