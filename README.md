@@ -134,6 +134,9 @@
   * Paper : 
   * Material : 
 
+* Learning to Play Guess Who? and Inventing a Grounded Language as a Consequence
+  * 사전학습 및 토론
+
 
 ### Week06
 * Emergence of Grounded Language in Multi-Agent Populations Games
@@ -146,7 +149,8 @@
   * Paper : 
   * Material : 
   
-* 
+* Multi-Agent Cooperation and the Emergence of (Natural) Language(1612)
+  * 사전학습 및 토론
 
 
 ### Week07
@@ -160,7 +164,6 @@
   * Paper : 
   * Material : 
   
-* 
 
 ### Week08
 * Learning with Opponent-Learning Awareness
@@ -172,6 +175,9 @@
   * Presenter : 김예찬
   * Paper : 
   * Material : 
+  
+* VAIN: Attentional Multi-agent Predictive Modeling(1706)
+  * 사전학습 및 토론
   
   
 ### Week09
@@ -185,6 +191,9 @@
   * Paper : 
   * Material : 
   
+* Learning Attentional Communication for Multi-Agent Cooperation
+  * 사전학습 및 토론
+  
   
 ### Week10
 * Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input
@@ -196,7 +205,7 @@
   * Presenter : 김예찬
   * Paper : 
   * Material : 
-  
+    
   
 ### Week11
 * Learning Policy Representation in Multiagent Systems
@@ -204,7 +213,7 @@
   * Paper : 
   * Material : 
   
-* Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision
+* TarMAC: Targeted Multi-Agent Communication
   * Presenter : 김예찬
   * Paper : 
   * Material : 
